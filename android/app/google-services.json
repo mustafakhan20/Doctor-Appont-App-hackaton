@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "962564262781",
+    "firebase_url": "https://ecomtest-f9957-default-rtdb.firebaseio.com",
+    "project_id": "ecomtest-f9957",
+    "storage_bucket": "ecomtest-f9957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962564262781:android:3616b698823f8d832e1a14",
+        "android_client_info": {
+          "package_name": "com.example.code1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxTuV03yD6Ns09umVvhVMXo-STJA4VPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962564262781:android:07223733c3bc3db02e1a14",
+        "android_client_info": {
+          "package_name": "com.example.docapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxTuV03yD6Ns09umVvhVMXo-STJA4VPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
